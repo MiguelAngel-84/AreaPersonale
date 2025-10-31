@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Profile](./assets/profile.jpg)
+![Profile](./AreaPersonale/foto.jpeg)
 
 ### 👨‍💼 Responsabile con 18 anni di esperienza | 💻 IT Professional | 🌍 Multilingual
 
