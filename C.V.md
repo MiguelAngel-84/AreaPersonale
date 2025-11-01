@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/MiguelAngel-84/AreaPersonale/blob/main/foto.jpeg" width="150" alt="MiguelAngel">
+<img src="https://github.com/MiguelAngel-84/AreaPersonale/blob/main/foto.jpeg" width="150" alt="Miguel so mi!"> <!--tag ALT= fornisce un testo alternativo in caso non carica l'immagine -->
 
 ### 👨‍💼 Responsabile con 18 anni di esperienza | 💻 IT Professional | 🌍 Multilingual
 
