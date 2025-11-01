@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Profile](./AreaPersonale/foto.jpeg)
+<img src="https://github.com/MiguelAngel-84/AreaPersonale/blob/main/foto.jpeg" width="150" alt="MiguelAngel">
 
 ### 👨‍💼 Responsabile con 18 anni di esperienza | 💻 IT Professional | 🌍 Multilingual
 
